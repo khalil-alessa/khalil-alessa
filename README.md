@@ -2,7 +2,7 @@
 
 ## About Me
 
-Information Technology student passionate about mobile app development, web development, and building practical software solutions.
+Information Technology student passionate about mobile app development, web development, and building secure, reliable network systems.
 
 - 📱 Mobile App Developer
 - 🌐 Web Developer
