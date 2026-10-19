@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Khalil Alessa 👋
 
-<!--
-**khalil-alessa/khalil-alessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Information Technology student passionate about mobile app development, web development, and building practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Mobile App Developer
+- 🌐 Web Developer
+- 🖧 Network Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+- Python
+- JavaScript
+- Kotlin
+- TypeScript
+
+### Web Development
+- HTML
+- CSS
+- Bootstrap
+
+### Mobile Development
+- Android Studio
+- Jetpack Compose
+
+### Databases
+- MySQL
+
+### Networking
+- Cisco Packet Tracer
+- TCP/IP
+- Routing and Switching
+
+### Tools
+- Visual Studio Code
+- Linux
+- Kali Linux
+
+---
+
+## 🚀 Projects
+
+**RentEase** — a team-built car rental mobile app with vehicle browsing and categories, rental management, secure authentication, and real-time data. My role: mobile app development, database design, and system integration.
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/khalil-alessa-a69589376/)
+- khaleelalessa@gmail.com
+- khalilalessa@outlook.com
